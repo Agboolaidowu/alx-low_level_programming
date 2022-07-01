@@ -5,7 +5,7 @@
 /**
  * main - prints the last digit of the random
  * number stored in varable n
- * Return: Always 0 (Sucess
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)
