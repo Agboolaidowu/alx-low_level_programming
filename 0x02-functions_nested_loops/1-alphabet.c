@@ -3,7 +3,7 @@
 /**
  * print alphabet- prints the alphabet in lowercase,
  * followed by a new line
- * @ch: print_alphabet
+ * @ch: alphabet
  */
 
 void print_alphabet(void)
