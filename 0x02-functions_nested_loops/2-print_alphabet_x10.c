@@ -6,7 +6,7 @@
  * Return: Always 0 (Sucess)
  */
 
-void print_alphabet_x109(void)
+void print_alphabet_x10(void)
 {
 	char ch;
 	int i;
