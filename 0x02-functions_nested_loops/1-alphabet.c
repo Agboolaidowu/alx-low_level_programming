@@ -5,7 +5,7 @@
  * followed by a new line
  */
 
-void print_alphabet(void)
+void print_alphabet(0)
 {
 	char ch;
 
