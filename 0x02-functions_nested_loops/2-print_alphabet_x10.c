@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *print_alphabet_x10 - print 10 times an alphabet in lowercae,
- *followed by a new line
+ * @print_alphabet_x10 - print 10 times an alphabet in lowercae,
+ * followed by a new line
  *
  * Return: Always 0 (Sucess)
  */
